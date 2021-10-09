@@ -1,5 +1,5 @@
 {
-  "name": "blogpostgeneratorforked",
+  "name": "chrisdevblogsapi",
   "version": "1.0.0",
   "description": "My Blog Server",
   "main": "app.js",
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chanqoDev/BlogPostGeneratorForked.git"
+    "url": "git+https://github.com/chanqoDev/chrisDevBlogsAPI.git"
   },
   "author": "Christian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chanqoDev/BlogPostGeneratorForked/issues"
+    "url": "https://github.com/chanqoDev/chrisDevBlogsAPI/issues"
   },
-  "homepage": "https://github.com/chanqoDev/BlogPostGeneratorForked#readme",
+  "homepage": "https://github.com/chanqoDev/chrisDevBlogsAPI#readme",
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.3"
-  }
+  },
+  "devDependencies": {}
 }
